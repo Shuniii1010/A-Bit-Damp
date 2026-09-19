@@ -1,0 +1,1674 @@
+{
+  "LastModified": 20260917131150,
+  "StationCode": "TLS",
+  "Latitude": 22.4847,
+  "Longitude": 114.118,
+  "ModelTime": 2026091612,
+  "DailyForecast": [
+    {
+      "ForecastDate": "20260917",
+      "ForecastMaximumTemperature": 33.7,
+      "ForecastMinimumTemperature": 25.9
+    },
+    {
+      "ForecastDate": "20260918",
+      "ForecastMaximumTemperature": 34.6,
+      "ForecastMinimumTemperature": 24.6
+    },
+    {
+      "ForecastDate": "20260919",
+      "ForecastMaximumTemperature": 36,
+      "ForecastMinimumTemperature": 24.5
+    },
+    {
+      "ForecastDate": "20260920",
+      "ForecastMaximumTemperature": 34.4,
+      "ForecastMinimumTemperature": 24.6
+    },
+    {
+      "ForecastDate": "20260921",
+      "ForecastMaximumTemperature": 32.2,
+      "ForecastMinimumTemperature": 24.9
+    },
+    {
+      "ForecastDate": "20260922",
+      "ForecastMaximumTemperature": 31.6,
+      "ForecastMinimumTemperature": 24.7
+    },
+    {
+      "ForecastDate": "20260923",
+      "ForecastMaximumTemperature": 32.2,
+      "ForecastMinimumTemperature": 24.4
+    },
+    {
+      "ForecastDate": "20260924",
+      "ForecastMaximumTemperature": 32.3,
+      "ForecastMinimumTemperature": 23.8
+    },
+    {
+      "ForecastDate": "20260925",
+      "ForecastMaximumTemperature": 32.8,
+      "ForecastMinimumTemperature": 24.2
+    },
+    {
+      "ForecastDate": "20260926",
+      "ForecastMaximumTemperature": 32.8,
+      "ForecastMinimumTemperature": 24.3
+    }
+  ],
+  "HourlyWeatherForecast": [
+    {
+      "ForecastHour": "2026091711",
+      "ForecastRelativeHumidity": 66,
+      "ForecastTemperature": 30.6,
+      "ForecastWindDirection": 30,
+      "ForecastWindSpeed": 5
+    },
+    {
+      "ForecastHour": "2026091712",
+      "ForecastRelativeHumidity": 57,
+      "ForecastTemperature": 32.5,
+      "ForecastWindDirection": 66,
+      "ForecastWindSpeed": 4.7
+    },
+    {
+      "ForecastHour": "2026091713",
+      "ForecastRelativeHumidity": 57,
+      "ForecastTemperature": 32.8,
+      "ForecastWindDirection": 80,
+      "ForecastWindSpeed": 4.7
+    },
+    {
+      "ForecastHour": "2026091714",
+      "ForecastRelativeHumidity": 54.1,
+      "ForecastTemperature": 33.7,
+      "ForecastWindDirection": 99,
+      "ForecastWindSpeed": 5.3
+    },
+    {
+      "ForecastHour": "2026091715",
+      "ForecastRelativeHumidity": 56.6,
+      "ForecastTemperature": 33,
+      "ForecastWindDirection": 116,
+      "ForecastWindSpeed": 4.5
+    },
+    {
+      "ForecastHour": "2026091716",
+      "ForecastRelativeHumidity": 57.7,
+      "ForecastTemperature": 32.3,
+      "ForecastWindDirection": 122,
+      "ForecastWindSpeed": 4.7
+    },
+    {
+      "ForecastHour": "2026091717",
+      "ForecastRelativeHumidity": 64.2,
+      "ForecastTemperature": 30.4,
+      "ForecastWindDirection": 117,
+      "ForecastWindSpeed": 4.6
+    },
+    {
+      "ForecastHour": "2026091718",
+      "ForecastRelativeHumidity": 72.4,
+      "ForecastTemperature": 28.4,
+      "ForecastWindDirection": 93,
+      "ForecastWindSpeed": 3.5
+    },
+    {
+      "ForecastHour": "2026091719",
+      "ForecastRelativeHumidity": 78.3,
+      "ForecastTemperature": 27.2,
+      "ForecastWindDirection": 86,
+      "ForecastWindSpeed": 3
+    },
+    {
+      "ForecastHour": "2026091720",
+      "ForecastRelativeHumidity": 81.8,
+      "ForecastTemperature": 26.5,
+      "ForecastWindDirection": 76,
+      "ForecastWindSpeed": 2.4
+    },
+    {
+      "ForecastHour": "2026091721",
+      "ForecastRelativeHumidity": 86.4,
+      "ForecastTemperature": 26,
+      "ForecastWindDirection": 80,
+      "ForecastWindSpeed": 1.6
+    },
+    {
+      "ForecastHour": "2026091722",
+      "ForecastRelativeHumidity": 86.5,
+      "ForecastTemperature": 26,
+      "ForecastWindDirection": 74,
+      "ForecastWindSpeed": 2.6
+    },
+    {
+      "ForecastHour": "2026091723",
+      "ForecastRelativeHumidity": 88,
+      "ForecastTemperature": 25.9,
+      "ForecastWindDirection": 78,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026091800",
+      "ForecastRelativeHumidity": 88.5,
+      "ForecastTemperature": 25.8,
+      "ForecastWindDirection": 73,
+      "ForecastWindSpeed": 1.7
+    },
+    {
+      "ForecastHour": "2026091801",
+      "ForecastRelativeHumidity": 88.5,
+      "ForecastTemperature": 25.7,
+      "ForecastWindDirection": 80,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026091802",
+      "ForecastRelativeHumidity": 90.1,
+      "ForecastTemperature": 25.4,
+      "ForecastWindDirection": 70,
+      "ForecastWindSpeed": 1.6
+    },
+    {
+      "ForecastHour": "2026091803",
+      "ForecastRelativeHumidity": 92,
+      "ForecastTemperature": 25,
+      "ForecastWindDirection": 71,
+      "ForecastWindSpeed": 1.5
+    },
+    {
+      "ForecastHour": "2026091804",
+      "ForecastRelativeHumidity": 92.9,
+      "ForecastTemperature": 24.7,
+      "ForecastWindDirection": 88,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026091805",
+      "ForecastRelativeHumidity": 93.1,
+      "ForecastTemperature": 24.6,
+      "ForecastWindDirection": 84,
+      "ForecastWindSpeed": 1.6
+    },
+    {
+      "ForecastHour": "2026091806",
+      "ForecastRelativeHumidity": 91.1,
+      "ForecastTemperature": 24.9,
+      "ForecastWindDirection": 82,
+      "ForecastWindSpeed": 1.4
+    },
+    {
+      "ForecastHour": "2026091807",
+      "ForecastRelativeHumidity": 88.4,
+      "ForecastTemperature": 25.7,
+      "ForecastWindDirection": 83,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026091808",
+      "ForecastRelativeHumidity": 81,
+      "ForecastTemperature": 27.6,
+      "ForecastWindDirection": 80,
+      "ForecastWindSpeed": 2.2
+    },
+    {
+      "ForecastHour": "2026091809",
+      "ForecastRelativeHumidity": 71.3,
+      "ForecastTemperature": 29.4,
+      "ForecastWindDirection": 68,
+      "ForecastWindSpeed": 3.5
+    },
+    {
+      "ForecastHour": "2026091810",
+      "ForecastRelativeHumidity": 63.8,
+      "ForecastTemperature": 31,
+      "ForecastWindDirection": 63,
+      "ForecastWindSpeed": 4
+    },
+    {
+      "ForecastHour": "2026091811",
+      "ForecastRelativeHumidity": 60.2,
+      "ForecastTemperature": 31.9,
+      "ForecastWindDirection": 64,
+      "ForecastWindSpeed": 4.9
+    },
+    {
+      "ForecastHour": "2026091812",
+      "ForecastRelativeHumidity": 56,
+      "ForecastTemperature": 33.1,
+      "ForecastWindDirection": 85,
+      "ForecastWindSpeed": 5.5
+    },
+    {
+      "ForecastHour": "2026091813",
+      "ForecastRelativeHumidity": 54.6,
+      "ForecastTemperature": 33.5,
+      "ForecastWindDirection": 83,
+      "ForecastWindSpeed": 4.5
+    },
+    {
+      "ForecastHour": "2026091814",
+      "ForecastRelativeHumidity": 52.6,
+      "ForecastTemperature": 34.6,
+      "ForecastWindDirection": 97,
+      "ForecastWindSpeed": 5
+    },
+    {
+      "ForecastHour": "2026091815",
+      "ForecastRelativeHumidity": 55.4,
+      "ForecastTemperature": 34.1,
+      "ForecastWindDirection": 110,
+      "ForecastWindSpeed": 4.2
+    },
+    {
+      "ForecastHour": "2026091816",
+      "ForecastRelativeHumidity": 57.6,
+      "ForecastTemperature": 32.9,
+      "ForecastWindDirection": 113,
+      "ForecastWindSpeed": 4.3
+    },
+    {
+      "ForecastHour": "2026091817",
+      "ForecastRelativeHumidity": 64,
+      "ForecastTemperature": 30.7,
+      "ForecastWindDirection": 106,
+      "ForecastWindSpeed": 4.3
+    },
+    {
+      "ForecastHour": "2026091818",
+      "ForecastRelativeHumidity": 72,
+      "ForecastTemperature": 28.4,
+      "ForecastWindDirection": 87,
+      "ForecastWindSpeed": 3.4
+    },
+    {
+      "ForecastHour": "2026091819",
+      "ForecastRelativeHumidity": 78.4,
+      "ForecastTemperature": 27.1,
+      "ForecastWindDirection": 85,
+      "ForecastWindSpeed": 2.9
+    },
+    {
+      "ForecastHour": "2026091820",
+      "ForecastRelativeHumidity": 82.1,
+      "ForecastTemperature": 26.4,
+      "ForecastWindDirection": 75,
+      "ForecastWindSpeed": 2.4
+    },
+    {
+      "ForecastHour": "2026091821",
+      "ForecastRelativeHumidity": 86.4,
+      "ForecastTemperature": 26,
+      "ForecastWindDirection": 79,
+      "ForecastWindSpeed": 1.7
+    },
+    {
+      "ForecastHour": "2026091822",
+      "ForecastRelativeHumidity": 85.7,
+      "ForecastTemperature": 26.1,
+      "ForecastWindDirection": 73,
+      "ForecastWindSpeed": 2.7
+    },
+    {
+      "ForecastHour": "2026091823",
+      "ForecastRelativeHumidity": 87.4,
+      "ForecastTemperature": 25.9,
+      "ForecastWindDirection": 76,
+      "ForecastWindSpeed": 2
+    },
+    {
+      "ForecastHour": "2026091900",
+      "ForecastRelativeHumidity": 88.6,
+      "ForecastTemperature": 25.8,
+      "ForecastWindDirection": 72,
+      "ForecastWindSpeed": 1.8
+    },
+    {
+      "ForecastHour": "2026091901",
+      "ForecastRelativeHumidity": 89,
+      "ForecastTemperature": 25.6,
+      "ForecastWindDirection": 77,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026091902",
+      "ForecastRelativeHumidity": 91,
+      "ForecastTemperature": 25.3,
+      "ForecastWindDirection": 60,
+      "ForecastWindSpeed": 1.5
+    },
+    {
+      "ForecastHour": "2026091903",
+      "ForecastRelativeHumidity": 93.1,
+      "ForecastTemperature": 24.9,
+      "ForecastWindDirection": 68,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026091904",
+      "ForecastRelativeHumidity": 94.3,
+      "ForecastTemperature": 24.7,
+      "ForecastWindDirection": 86,
+      "ForecastWindSpeed": 0.9
+    },
+    {
+      "ForecastHour": "2026091905",
+      "ForecastRelativeHumidity": 95.6,
+      "ForecastTemperature": 24.5,
+      "ForecastWindDirection": 78,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026091906",
+      "ForecastRelativeHumidity": 94.8,
+      "ForecastTemperature": 25,
+      "ForecastWindDirection": 79,
+      "ForecastWindSpeed": 0.8
+    },
+    {
+      "ForecastHour": "2026091907",
+      "ForecastRelativeHumidity": 91.9,
+      "ForecastTemperature": 26,
+      "ForecastWindDirection": 84,
+      "ForecastWindSpeed": 1
+    },
+    {
+      "ForecastHour": "2026091908",
+      "ForecastRelativeHumidity": 82.9,
+      "ForecastTemperature": 28.1,
+      "ForecastWindDirection": 76,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026091909",
+      "ForecastRelativeHumidity": 72.7,
+      "ForecastTemperature": 30.3,
+      "ForecastWindDirection": 56,
+      "ForecastWindSpeed": 2.3
+    },
+    {
+      "ForecastHour": "2026091910",
+      "ForecastRelativeHumidity": 66,
+      "ForecastTemperature": 32,
+      "ForecastWindDirection": 28,
+      "ForecastWindSpeed": 2.9
+    },
+    {
+      "ForecastHour": "2026091911",
+      "ForecastRelativeHumidity": 63,
+      "ForecastTemperature": 33,
+      "ForecastWindDirection": 28,
+      "ForecastWindSpeed": 3.9
+    },
+    {
+      "ForecastHour": "2026091912",
+      "ForecastRelativeHumidity": 59.9,
+      "ForecastTemperature": 34.3,
+      "ForecastWindDirection": 29,
+      "ForecastWindSpeed": 4.8
+    },
+    {
+      "ForecastHour": "2026091913",
+      "ForecastRelativeHumidity": 58.7,
+      "ForecastTemperature": 34.8,
+      "ForecastWindDirection": 30,
+      "ForecastWindSpeed": 3.9
+    },
+    {
+      "ForecastHour": "2026091914",
+      "ForecastRelativeHumidity": 56.1,
+      "ForecastTemperature": 36,
+      "ForecastWindDirection": 138,
+      "ForecastWindSpeed": 4.5
+    },
+    {
+      "ForecastHour": "2026091915",
+      "ForecastRelativeHumidity": 57.8,
+      "ForecastTemperature": 35.4,
+      "ForecastWindDirection": 172,
+      "ForecastWindSpeed": 3.5
+    },
+    {
+      "ForecastHour": "2026091916",
+      "ForecastRelativeHumidity": 58.1,
+      "ForecastTemperature": 34.2,
+      "ForecastWindDirection": 176,
+      "ForecastWindSpeed": 3.6
+    },
+    {
+      "ForecastHour": "2026091917",
+      "ForecastRelativeHumidity": 63.2,
+      "ForecastTemperature": 31.8,
+      "ForecastWindDirection": 171,
+      "ForecastWindSpeed": 3.4
+    },
+    {
+      "ForecastHour": "2026091918",
+      "ForecastRelativeHumidity": 70.7,
+      "ForecastTemperature": 29.1,
+      "ForecastWindDirection": 112,
+      "ForecastWindSpeed": 2.4
+    },
+    {
+      "ForecastHour": "2026091919",
+      "ForecastRelativeHumidity": 77.6,
+      "ForecastTemperature": 27.7,
+      "ForecastWindDirection": 84,
+      "ForecastWindSpeed": 2.3
+    },
+    {
+      "ForecastHour": "2026091920",
+      "ForecastRelativeHumidity": 81.3,
+      "ForecastTemperature": 26.9,
+      "ForecastWindDirection": 63,
+      "ForecastWindSpeed": 1.8
+    },
+    {
+      "ForecastHour": "2026091921",
+      "ForecastRelativeHumidity": 85.5,
+      "ForecastTemperature": 26.3,
+      "ForecastWindDirection": 72,
+      "ForecastWindSpeed": 1.1
+    },
+    {
+      "ForecastHour": "2026091922",
+      "ForecastRelativeHumidity": 84.9,
+      "ForecastTemperature": 26.4,
+      "ForecastWindDirection": 65,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026091923",
+      "ForecastRelativeHumidity": 86.7,
+      "ForecastTemperature": 26.2,
+      "ForecastWindDirection": 72,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092000",
+      "ForecastRelativeHumidity": 88.1,
+      "ForecastTemperature": 26,
+      "ForecastWindDirection": 68,
+      "ForecastWindSpeed": 1.1
+    },
+    {
+      "ForecastHour": "2026092001",
+      "ForecastRelativeHumidity": 88.8,
+      "ForecastTemperature": 25.8,
+      "ForecastWindDirection": 78,
+      "ForecastWindSpeed": 1
+    },
+    {
+      "ForecastHour": "2026092002",
+      "ForecastRelativeHumidity": 91.1,
+      "ForecastTemperature": 25.5,
+      "ForecastWindDirection": 46,
+      "ForecastWindSpeed": 0.7
+    },
+    {
+      "ForecastHour": "2026092003",
+      "ForecastRelativeHumidity": 93.5,
+      "ForecastTemperature": 25.1,
+      "ForecastWindDirection": 58,
+      "ForecastWindSpeed": 0.6
+    },
+    {
+      "ForecastHour": "2026092004",
+      "ForecastRelativeHumidity": 94.8,
+      "ForecastTemperature": 24.8,
+      "ForecastWindDirection": 86,
+      "ForecastWindSpeed": 0.2
+    },
+    {
+      "ForecastHour": "2026092005",
+      "ForecastRelativeHumidity": 95.9,
+      "ForecastTemperature": 24.6,
+      "ForecastWindDirection": 75,
+      "ForecastWindSpeed": 0.5
+    },
+    {
+      "ForecastHour": "2026092006",
+      "ForecastRelativeHumidity": 96,
+      "ForecastTemperature": 24.9,
+      "ForecastWindDirection": 72,
+      "ForecastWindSpeed": 0.1
+    },
+    {
+      "ForecastHour": "2026092007",
+      "ForecastRelativeHumidity": 94.4,
+      "ForecastTemperature": 25.8,
+      "ForecastWindDirection": 76,
+      "ForecastWindSpeed": 0.3
+    },
+    {
+      "ForecastHour": "2026092008",
+      "ForecastRelativeHumidity": 86.1,
+      "ForecastTemperature": 27.8,
+      "ForecastWindDirection": 49,
+      "ForecastWindSpeed": 0.5
+    },
+    {
+      "ForecastHour": "2026092009",
+      "ForecastRelativeHumidity": 76.1,
+      "ForecastTemperature": 29.7,
+      "ForecastWindDirection": 16,
+      "ForecastWindSpeed": 1.5
+    },
+    {
+      "ForecastHour": "2026092010",
+      "ForecastRelativeHumidity": 68.7,
+      "ForecastTemperature": 31,
+      "ForecastWindDirection": 328,
+      "ForecastWindSpeed": 2.3
+    },
+    {
+      "ForecastHour": "2026092011",
+      "ForecastRelativeHumidity": 66.1,
+      "ForecastTemperature": 31.7,
+      "ForecastWindDirection": 351,
+      "ForecastWindSpeed": 3.4
+    },
+    {
+      "ForecastHour": "2026092012",
+      "ForecastRelativeHumidity": 62.2,
+      "ForecastTemperature": 32.8,
+      "ForecastWindDirection": 324,
+      "ForecastWindSpeed": 4.2
+    },
+    {
+      "ForecastHour": "2026092013",
+      "ForecastRelativeHumidity": 60.4,
+      "ForecastTemperature": 33.3,
+      "ForecastWindDirection": 318,
+      "ForecastWindSpeed": 3.3
+    },
+    {
+      "ForecastHour": "2026092014",
+      "ForecastRelativeHumidity": 57.6,
+      "ForecastTemperature": 34.4,
+      "ForecastWindDirection": 220,
+      "ForecastWindSpeed": 3.8
+    },
+    {
+      "ForecastHour": "2026092015",
+      "ForecastRelativeHumidity": 58.9,
+      "ForecastTemperature": 34,
+      "ForecastWindDirection": 236,
+      "ForecastWindSpeed": 3
+    },
+    {
+      "ForecastHour": "2026092016",
+      "ForecastRelativeHumidity": 59,
+      "ForecastTemperature": 33.4,
+      "ForecastWindDirection": 219,
+      "ForecastWindSpeed": 3.1
+    },
+    {
+      "ForecastHour": "2026092017",
+      "ForecastRelativeHumidity": 63.8,
+      "ForecastTemperature": 31.7,
+      "ForecastWindDirection": 225,
+      "ForecastWindSpeed": 2.8
+    },
+    {
+      "ForecastHour": "2026092018",
+      "ForecastRelativeHumidity": 71.2,
+      "ForecastTemperature": 29.7,
+      "ForecastWindDirection": 219,
+      "ForecastWindSpeed": 1.8
+    },
+    {
+      "ForecastHour": "2026092019",
+      "ForecastRelativeHumidity": 78.1,
+      "ForecastTemperature": 28.3,
+      "ForecastWindDirection": 312,
+      "ForecastWindSpeed": 1.7
+    },
+    {
+      "ForecastHour": "2026092020",
+      "ForecastRelativeHumidity": 82.2,
+      "ForecastTemperature": 27.5,
+      "ForecastWindDirection": 306,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092021",
+      "ForecastRelativeHumidity": 87,
+      "ForecastTemperature": 27,
+      "ForecastWindDirection": 64,
+      "ForecastWindSpeed": 0.6
+    },
+    {
+      "ForecastHour": "2026092022",
+      "ForecastRelativeHumidity": 87.5,
+      "ForecastTemperature": 26.9,
+      "ForecastWindDirection": 40,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092023",
+      "ForecastRelativeHumidity": 90.2,
+      "ForecastTemperature": 26.6,
+      "ForecastWindDirection": 64,
+      "ForecastWindSpeed": 0.6
+    },
+    {
+      "ForecastHour": "2026092100",
+      "ForecastRelativeHumidity": 91.6,
+      "ForecastTemperature": 26.4,
+      "ForecastWindDirection": 51,
+      "ForecastWindSpeed": 0.6
+    },
+    {
+      "ForecastHour": "2026092101",
+      "ForecastRelativeHumidity": 92.2,
+      "ForecastTemperature": 26.3,
+      "ForecastWindDirection": 68,
+      "ForecastWindSpeed": 0.4
+    },
+    {
+      "ForecastHour": "2026092102",
+      "ForecastRelativeHumidity": 94.4,
+      "ForecastTemperature": 26,
+      "ForecastWindDirection": 7,
+      "ForecastWindSpeed": 0.3
+    },
+    {
+      "ForecastHour": "2026092103",
+      "ForecastRelativeHumidity": 96.6,
+      "ForecastTemperature": 25.6,
+      "ForecastWindDirection": 34,
+      "ForecastWindSpeed": 0.3
+    },
+    {
+      "ForecastHour": "2026092104",
+      "ForecastRelativeHumidity": 97.7,
+      "ForecastTemperature": 25.3,
+      "ForecastWindDirection": 173,
+      "ForecastWindSpeed": 0.1
+    },
+    {
+      "ForecastHour": "2026092105",
+      "ForecastRelativeHumidity": 98.8,
+      "ForecastTemperature": 25,
+      "ForecastWindDirection": 40,
+      "ForecastWindSpeed": 0.3
+    },
+    {
+      "ForecastHour": "2026092106",
+      "ForecastRelativeHumidity": 99.4,
+      "ForecastTemperature": 24.9,
+      "ForecastWindDirection": 48,
+      "ForecastWindSpeed": 0.1
+    },
+    {
+      "ForecastHour": "2026092107",
+      "ForecastRelativeHumidity": 98.5,
+      "ForecastTemperature": 25.4,
+      "ForecastWindDirection": 96,
+      "ForecastWindSpeed": 0.2
+    },
+    {
+      "ForecastHour": "2026092108",
+      "ForecastRelativeHumidity": 91.5,
+      "ForecastTemperature": 26.9,
+      "ForecastWindDirection": 124,
+      "ForecastWindSpeed": 0.4
+    },
+    {
+      "ForecastHour": "2026092109",
+      "ForecastRelativeHumidity": 82.3,
+      "ForecastTemperature": 28.4,
+      "ForecastWindDirection": 357,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092110",
+      "ForecastRelativeHumidity": 76.6,
+      "ForecastTemperature": 29.5,
+      "ForecastWindDirection": 316,
+      "ForecastWindSpeed": 2.2
+    },
+    {
+      "ForecastHour": "2026092111",
+      "ForecastRelativeHumidity": 74.7,
+      "ForecastTemperature": 29.9,
+      "ForecastWindDirection": 344,
+      "ForecastWindSpeed": 3.1
+    },
+    {
+      "ForecastHour": "2026092112",
+      "ForecastRelativeHumidity": 71.5,
+      "ForecastTemperature": 30.9,
+      "ForecastWindDirection": 233,
+      "ForecastWindSpeed": 3.9
+    },
+    {
+      "ForecastHour": "2026092113",
+      "ForecastRelativeHumidity": 70.3,
+      "ForecastTemperature": 31.3,
+      "ForecastWindDirection": 229,
+      "ForecastWindSpeed": 3.4
+    },
+    {
+      "ForecastHour": "2026092114",
+      "ForecastRelativeHumidity": 67.7,
+      "ForecastTemperature": 32.2,
+      "ForecastWindDirection": 190,
+      "ForecastWindSpeed": 4.2
+    },
+    {
+      "ForecastHour": "2026092115",
+      "ForecastRelativeHumidity": 69.2,
+      "ForecastTemperature": 31.8,
+      "ForecastWindDirection": 213,
+      "ForecastWindSpeed": 3.3
+    },
+    {
+      "ForecastHour": "2026092116",
+      "ForecastRelativeHumidity": 68.5,
+      "ForecastTemperature": 31.4,
+      "ForecastWindDirection": 202,
+      "ForecastWindSpeed": 3.4
+    },
+    {
+      "ForecastHour": "2026092117",
+      "ForecastRelativeHumidity": 73.3,
+      "ForecastTemperature": 30,
+      "ForecastWindDirection": 201,
+      "ForecastWindSpeed": 3.1
+    },
+    {
+      "ForecastHour": "2026092118",
+      "ForecastRelativeHumidity": 80.1,
+      "ForecastTemperature": 28.3,
+      "ForecastWindDirection": 168,
+      "ForecastWindSpeed": 2.1
+    },
+    {
+      "ForecastHour": "2026092119",
+      "ForecastRelativeHumidity": 84.6,
+      "ForecastTemperature": 27.4,
+      "ForecastWindDirection": 58,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026092120",
+      "ForecastRelativeHumidity": 86.7,
+      "ForecastTemperature": 26.9,
+      "ForecastWindDirection": 44,
+      "ForecastWindSpeed": 1.4
+    },
+    {
+      "ForecastHour": "2026092121",
+      "ForecastRelativeHumidity": 91,
+      "ForecastTemperature": 26.4,
+      "ForecastWindDirection": 68,
+      "ForecastWindSpeed": 0.8
+    },
+    {
+      "ForecastHour": "2026092122",
+      "ForecastRelativeHumidity": 90.5,
+      "ForecastTemperature": 26.5,
+      "ForecastWindDirection": 60,
+      "ForecastWindSpeed": 1.7
+    },
+    {
+      "ForecastHour": "2026092123",
+      "ForecastRelativeHumidity": 92.4,
+      "ForecastTemperature": 26.2,
+      "ForecastWindDirection": 72,
+      "ForecastWindSpeed": 1.1
+    },
+    {
+      "ForecastHour": "2026092200",
+      "ForecastRelativeHumidity": 93,
+      "ForecastTemperature": 26.2,
+      "ForecastWindDirection": 69,
+      "ForecastWindSpeed": 1.1
+    },
+    {
+      "ForecastHour": "2026092201",
+      "ForecastRelativeHumidity": 92.9,
+      "ForecastTemperature": 26,
+      "ForecastWindDirection": 81,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092202",
+      "ForecastRelativeHumidity": 94.5,
+      "ForecastTemperature": 25.8,
+      "ForecastWindDirection": 56,
+      "ForecastWindSpeed": 1
+    },
+    {
+      "ForecastHour": "2026092203",
+      "ForecastRelativeHumidity": 96.5,
+      "ForecastTemperature": 25.4,
+      "ForecastWindDirection": 66,
+      "ForecastWindSpeed": 0.9
+    },
+    {
+      "ForecastHour": "2026092204",
+      "ForecastRelativeHumidity": 97.5,
+      "ForecastTemperature": 25.1,
+      "ForecastWindDirection": 88,
+      "ForecastWindSpeed": 0.5
+    },
+    {
+      "ForecastHour": "2026092205",
+      "ForecastRelativeHumidity": 98.4,
+      "ForecastTemperature": 24.8,
+      "ForecastWindDirection": 78,
+      "ForecastWindSpeed": 0.8
+    },
+    {
+      "ForecastHour": "2026092206",
+      "ForecastRelativeHumidity": 98.6,
+      "ForecastTemperature": 24.7,
+      "ForecastWindDirection": 83,
+      "ForecastWindSpeed": 0.6
+    },
+    {
+      "ForecastHour": "2026092207",
+      "ForecastRelativeHumidity": 97.5,
+      "ForecastTemperature": 25.3,
+      "ForecastWindDirection": 89,
+      "ForecastWindSpeed": 0.9
+    },
+    {
+      "ForecastHour": "2026092208",
+      "ForecastRelativeHumidity": 90.6,
+      "ForecastTemperature": 26.9,
+      "ForecastWindDirection": 88,
+      "ForecastWindSpeed": 1.4
+    },
+    {
+      "ForecastHour": "2026092209",
+      "ForecastRelativeHumidity": 81.7,
+      "ForecastTemperature": 28.5,
+      "ForecastWindDirection": 75,
+      "ForecastWindSpeed": 2.5
+    },
+    {
+      "ForecastHour": "2026092210",
+      "ForecastRelativeHumidity": 75.4,
+      "ForecastTemperature": 29.7,
+      "ForecastWindDirection": 70,
+      "ForecastWindSpeed": 3
+    },
+    {
+      "ForecastHour": "2026092211",
+      "ForecastRelativeHumidity": 72.9,
+      "ForecastTemperature": 30.2,
+      "ForecastWindDirection": 56,
+      "ForecastWindSpeed": 3.9
+    },
+    {
+      "ForecastHour": "2026092212",
+      "ForecastRelativeHumidity": 70.4,
+      "ForecastTemperature": 31,
+      "ForecastWindDirection": 137,
+      "ForecastWindSpeed": 4.7
+    },
+    {
+      "ForecastHour": "2026092213",
+      "ForecastRelativeHumidity": 70.2,
+      "ForecastTemperature": 31,
+      "ForecastWindDirection": 46,
+      "ForecastWindSpeed": 3.8
+    },
+    {
+      "ForecastHour": "2026092214",
+      "ForecastRelativeHumidity": 68.8,
+      "ForecastTemperature": 31.6,
+      "ForecastWindDirection": 147,
+      "ForecastWindSpeed": 4.4
+    },
+    {
+      "ForecastHour": "2026092215",
+      "ForecastRelativeHumidity": 69.5,
+      "ForecastTemperature": 31.2,
+      "ForecastWindDirection": 166,
+      "ForecastWindSpeed": 3.6
+    },
+    {
+      "ForecastHour": "2026092216",
+      "ForecastRelativeHumidity": 68,
+      "ForecastTemperature": 30.8,
+      "ForecastWindDirection": 150,
+      "ForecastWindSpeed": 3.8
+    },
+    {
+      "ForecastHour": "2026092217",
+      "ForecastRelativeHumidity": 71.9,
+      "ForecastTemperature": 29.4,
+      "ForecastWindDirection": 133,
+      "ForecastWindSpeed": 3.9
+    },
+    {
+      "ForecastHour": "2026092218",
+      "ForecastRelativeHumidity": 79,
+      "ForecastTemperature": 27.7,
+      "ForecastWindDirection": 89,
+      "ForecastWindSpeed": 2.8
+    },
+    {
+      "ForecastHour": "2026092219",
+      "ForecastRelativeHumidity": 84,
+      "ForecastTemperature": 26.7,
+      "ForecastWindDirection": 76,
+      "ForecastWindSpeed": 2.4
+    },
+    {
+      "ForecastHour": "2026092220",
+      "ForecastRelativeHumidity": 86.5,
+      "ForecastTemperature": 26.3,
+      "ForecastWindDirection": 55,
+      "ForecastWindSpeed": 1.7
+    },
+    {
+      "ForecastHour": "2026092221",
+      "ForecastRelativeHumidity": 90.7,
+      "ForecastTemperature": 25.9,
+      "ForecastWindDirection": 68,
+      "ForecastWindSpeed": 1
+    },
+    {
+      "ForecastHour": "2026092222",
+      "ForecastRelativeHumidity": 89.8,
+      "ForecastTemperature": 25.9,
+      "ForecastWindDirection": 60,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026092223",
+      "ForecastRelativeHumidity": 91.1,
+      "ForecastTemperature": 25.8,
+      "ForecastWindDirection": 70,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092300",
+      "ForecastRelativeHumidity": 91.4,
+      "ForecastTemperature": 25.8,
+      "ForecastWindDirection": 69,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092301",
+      "ForecastRelativeHumidity": 91,
+      "ForecastTemperature": 25.7,
+      "ForecastWindDirection": 78,
+      "ForecastWindSpeed": 1.4
+    },
+    {
+      "ForecastHour": "2026092302",
+      "ForecastRelativeHumidity": 92.2,
+      "ForecastTemperature": 25.6,
+      "ForecastWindDirection": 53,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092303",
+      "ForecastRelativeHumidity": 93.6,
+      "ForecastTemperature": 25.1,
+      "ForecastWindDirection": 67,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092304",
+      "ForecastRelativeHumidity": 94.1,
+      "ForecastTemperature": 24.7,
+      "ForecastWindDirection": 89,
+      "ForecastWindSpeed": 0.8
+    },
+    {
+      "ForecastHour": "2026092305",
+      "ForecastRelativeHumidity": 94.6,
+      "ForecastTemperature": 24.5,
+      "ForecastWindDirection": 81,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092306",
+      "ForecastRelativeHumidity": 94.7,
+      "ForecastTemperature": 24.4,
+      "ForecastWindDirection": 84,
+      "ForecastWindSpeed": 0.9
+    },
+    {
+      "ForecastHour": "2026092307",
+      "ForecastRelativeHumidity": 93.3,
+      "ForecastTemperature": 25.1,
+      "ForecastWindDirection": 90,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092308",
+      "ForecastRelativeHumidity": 85.6,
+      "ForecastTemperature": 26.8,
+      "ForecastWindDirection": 89,
+      "ForecastWindSpeed": 1.7
+    },
+    {
+      "ForecastHour": "2026092309",
+      "ForecastRelativeHumidity": 76.6,
+      "ForecastTemperature": 28.5,
+      "ForecastWindDirection": 72,
+      "ForecastWindSpeed": 2.9
+    },
+    {
+      "ForecastHour": "2026092310",
+      "ForecastRelativeHumidity": 70.6,
+      "ForecastTemperature": 29.7,
+      "ForecastWindDirection": 69,
+      "ForecastWindSpeed": 3.5
+    },
+    {
+      "ForecastHour": "2026092311",
+      "ForecastRelativeHumidity": 68,
+      "ForecastTemperature": 30.3,
+      "ForecastWindDirection": 62,
+      "ForecastWindSpeed": 4.4
+    },
+    {
+      "ForecastHour": "2026092312",
+      "ForecastRelativeHumidity": 64.9,
+      "ForecastTemperature": 31.2,
+      "ForecastWindDirection": 99,
+      "ForecastWindSpeed": 5.1
+    },
+    {
+      "ForecastHour": "2026092313",
+      "ForecastRelativeHumidity": 63.9,
+      "ForecastTemperature": 31.4,
+      "ForecastWindDirection": 82,
+      "ForecastWindSpeed": 4.2
+    },
+    {
+      "ForecastHour": "2026092314",
+      "ForecastRelativeHumidity": 61.9,
+      "ForecastTemperature": 32.2,
+      "ForecastWindDirection": 126,
+      "ForecastWindSpeed": 4.7
+    },
+    {
+      "ForecastHour": "2026092315",
+      "ForecastRelativeHumidity": 63.3,
+      "ForecastTemperature": 31.8,
+      "ForecastWindDirection": 157,
+      "ForecastWindSpeed": 3.9
+    },
+    {
+      "ForecastHour": "2026092316",
+      "ForecastRelativeHumidity": 63.5,
+      "ForecastTemperature": 31.2,
+      "ForecastWindDirection": 153,
+      "ForecastWindSpeed": 4
+    },
+    {
+      "ForecastHour": "2026092317",
+      "ForecastRelativeHumidity": 68.7,
+      "ForecastTemperature": 29.6,
+      "ForecastWindDirection": 138,
+      "ForecastWindSpeed": 3.8
+    },
+    {
+      "ForecastHour": "2026092318",
+      "ForecastRelativeHumidity": 75.8,
+      "ForecastTemperature": 27.8,
+      "ForecastWindDirection": 100,
+      "ForecastWindSpeed": 2.8
+    },
+    {
+      "ForecastHour": "2026092319",
+      "ForecastRelativeHumidity": 81.2,
+      "ForecastTemperature": 26.8,
+      "ForecastWindDirection": 75,
+      "ForecastWindSpeed": 2.4
+    },
+    {
+      "ForecastHour": "2026092320",
+      "ForecastRelativeHumidity": 84.1,
+      "ForecastTemperature": 26.2,
+      "ForecastWindDirection": 63,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026092321",
+      "ForecastRelativeHumidity": 89.1,
+      "ForecastTemperature": 25.6,
+      "ForecastWindDirection": 68,
+      "ForecastWindSpeed": 1.1
+    },
+    {
+      "ForecastHour": "2026092322",
+      "ForecastRelativeHumidity": 89,
+      "ForecastTemperature": 25.6,
+      "ForecastWindDirection": 62,
+      "ForecastWindSpeed": 2
+    },
+    {
+      "ForecastHour": "2026092323",
+      "ForecastRelativeHumidity": 91,
+      "ForecastTemperature": 25.3,
+      "ForecastWindDirection": 68,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092400",
+      "ForecastRelativeHumidity": 92,
+      "ForecastTemperature": 25.2,
+      "ForecastWindDirection": 66,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092401",
+      "ForecastRelativeHumidity": 92.2,
+      "ForecastTemperature": 25,
+      "ForecastWindDirection": 73,
+      "ForecastWindSpeed": 1.4
+    },
+    {
+      "ForecastHour": "2026092402",
+      "ForecastRelativeHumidity": 94.1,
+      "ForecastTemperature": 24.7,
+      "ForecastWindDirection": 53,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092403",
+      "ForecastRelativeHumidity": 95.6,
+      "ForecastTemperature": 24.3,
+      "ForecastWindDirection": 56,
+      "ForecastWindSpeed": 1.1
+    },
+    {
+      "ForecastHour": "2026092404",
+      "ForecastRelativeHumidity": 96.2,
+      "ForecastTemperature": 23.9,
+      "ForecastWindDirection": 81,
+      "ForecastWindSpeed": 0.7
+    },
+    {
+      "ForecastHour": "2026092405",
+      "ForecastRelativeHumidity": 96.8,
+      "ForecastTemperature": 23.8,
+      "ForecastWindDirection": 65,
+      "ForecastWindSpeed": 1.1
+    },
+    {
+      "ForecastHour": "2026092406",
+      "ForecastRelativeHumidity": 96.5,
+      "ForecastTemperature": 24.1,
+      "ForecastWindDirection": 70,
+      "ForecastWindSpeed": 0.7
+    },
+    {
+      "ForecastHour": "2026092407",
+      "ForecastRelativeHumidity": 95.2,
+      "ForecastTemperature": 24.7,
+      "ForecastWindDirection": 80,
+      "ForecastWindSpeed": 1.1
+    },
+    {
+      "ForecastHour": "2026092408",
+      "ForecastRelativeHumidity": 87.9,
+      "ForecastTemperature": 26.3,
+      "ForecastWindDirection": 75,
+      "ForecastWindSpeed": 1.5
+    },
+    {
+      "ForecastHour": "2026092409",
+      "ForecastRelativeHumidity": 77.7,
+      "ForecastTemperature": 28.1,
+      "ForecastWindDirection": 62,
+      "ForecastWindSpeed": 2.7
+    },
+    {
+      "ForecastHour": "2026092410",
+      "ForecastRelativeHumidity": 70.6,
+      "ForecastTemperature": 29.5,
+      "ForecastWindDirection": 40,
+      "ForecastWindSpeed": 3.4
+    },
+    {
+      "ForecastHour": "2026092411",
+      "ForecastRelativeHumidity": 67.3,
+      "ForecastTemperature": 30.3,
+      "ForecastWindDirection": 46,
+      "ForecastWindSpeed": 4.2
+    },
+    {
+      "ForecastHour": "2026092412",
+      "ForecastRelativeHumidity": 64.1,
+      "ForecastTemperature": 31.3,
+      "ForecastWindDirection": 112,
+      "ForecastWindSpeed": 4.9
+    },
+    {
+      "ForecastHour": "2026092413",
+      "ForecastRelativeHumidity": 63.3,
+      "ForecastTemperature": 31.5,
+      "ForecastWindDirection": 111,
+      "ForecastWindSpeed": 4.2
+    },
+    {
+      "ForecastHour": "2026092414",
+      "ForecastRelativeHumidity": 61.2,
+      "ForecastTemperature": 32.3,
+      "ForecastWindDirection": 136,
+      "ForecastWindSpeed": 4.8
+    },
+    {
+      "ForecastHour": "2026092415",
+      "ForecastRelativeHumidity": 63.4,
+      "ForecastTemperature": 31.8,
+      "ForecastWindDirection": 180,
+      "ForecastWindSpeed": 4
+    },
+    {
+      "ForecastHour": "2026092416",
+      "ForecastRelativeHumidity": 64.2,
+      "ForecastTemperature": 31.2,
+      "ForecastWindDirection": 162,
+      "ForecastWindSpeed": 4
+    },
+    {
+      "ForecastHour": "2026092417",
+      "ForecastRelativeHumidity": 69.9,
+      "ForecastTemperature": 29.7,
+      "ForecastWindDirection": 157,
+      "ForecastWindSpeed": 3.9
+    },
+    {
+      "ForecastHour": "2026092418",
+      "ForecastRelativeHumidity": 77.9,
+      "ForecastTemperature": 27.9,
+      "ForecastWindDirection": 116,
+      "ForecastWindSpeed": 2.8
+    },
+    {
+      "ForecastHour": "2026092419",
+      "ForecastRelativeHumidity": 83.9,
+      "ForecastTemperature": 26.8,
+      "ForecastWindDirection": 83,
+      "ForecastWindSpeed": 2.5
+    },
+    {
+      "ForecastHour": "2026092420",
+      "ForecastRelativeHumidity": 87.1,
+      "ForecastTemperature": 26.2,
+      "ForecastWindDirection": 58,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026092421",
+      "ForecastRelativeHumidity": 91.9,
+      "ForecastTemperature": 25.8,
+      "ForecastWindDirection": 70,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092422",
+      "ForecastRelativeHumidity": 91.6,
+      "ForecastTemperature": 25.9,
+      "ForecastWindDirection": 60,
+      "ForecastWindSpeed": 2.1
+    },
+    {
+      "ForecastHour": "2026092423",
+      "ForecastRelativeHumidity": 93.5,
+      "ForecastTemperature": 25.7,
+      "ForecastWindDirection": 64,
+      "ForecastWindSpeed": 1.4
+    },
+    {
+      "ForecastHour": "2026092500",
+      "ForecastRelativeHumidity": 94.1,
+      "ForecastTemperature": 25.7,
+      "ForecastWindDirection": 60,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092501",
+      "ForecastRelativeHumidity": 93.8,
+      "ForecastTemperature": 25.5,
+      "ForecastWindDirection": 68,
+      "ForecastWindSpeed": 1.5
+    },
+    {
+      "ForecastHour": "2026092502",
+      "ForecastRelativeHumidity": 95.2,
+      "ForecastTemperature": 25.2,
+      "ForecastWindDirection": 39,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092503",
+      "ForecastRelativeHumidity": 96.5,
+      "ForecastTemperature": 24.7,
+      "ForecastWindDirection": 52,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092504",
+      "ForecastRelativeHumidity": 96.8,
+      "ForecastTemperature": 24.4,
+      "ForecastWindDirection": 82,
+      "ForecastWindSpeed": 0.9
+    },
+    {
+      "ForecastHour": "2026092505",
+      "ForecastRelativeHumidity": 97.1,
+      "ForecastTemperature": 24.2,
+      "ForecastWindDirection": 62,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092506",
+      "ForecastRelativeHumidity": 96.8,
+      "ForecastTemperature": 24.5,
+      "ForecastWindDirection": 70,
+      "ForecastWindSpeed": 0.9
+    },
+    {
+      "ForecastHour": "2026092507",
+      "ForecastRelativeHumidity": 95.5,
+      "ForecastTemperature": 25.2,
+      "ForecastWindDirection": 83,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092508",
+      "ForecastRelativeHumidity": 88.6,
+      "ForecastTemperature": 26.9,
+      "ForecastWindDirection": 62,
+      "ForecastWindSpeed": 1.6
+    },
+    {
+      "ForecastHour": "2026092509",
+      "ForecastRelativeHumidity": 78.7,
+      "ForecastTemperature": 28.7,
+      "ForecastWindDirection": 46,
+      "ForecastWindSpeed": 2.9
+    },
+    {
+      "ForecastHour": "2026092510",
+      "ForecastRelativeHumidity": 71.7,
+      "ForecastTemperature": 30.1,
+      "ForecastWindDirection": 24,
+      "ForecastWindSpeed": 3.5
+    },
+    {
+      "ForecastHour": "2026092511",
+      "ForecastRelativeHumidity": 68.4,
+      "ForecastTemperature": 30.8,
+      "ForecastWindDirection": 34,
+      "ForecastWindSpeed": 4.5
+    },
+    {
+      "ForecastHour": "2026092512",
+      "ForecastRelativeHumidity": 65.3,
+      "ForecastTemperature": 31.9,
+      "ForecastWindDirection": 108,
+      "ForecastWindSpeed": 5.1
+    },
+    {
+      "ForecastHour": "2026092513",
+      "ForecastRelativeHumidity": 64.6,
+      "ForecastTemperature": 32.1,
+      "ForecastWindDirection": 11,
+      "ForecastWindSpeed": 4.4
+    },
+    {
+      "ForecastHour": "2026092514",
+      "ForecastRelativeHumidity": 62.9,
+      "ForecastTemperature": 32.8,
+      "ForecastWindDirection": 154,
+      "ForecastWindSpeed": 4.9
+    },
+    {
+      "ForecastHour": "2026092515",
+      "ForecastRelativeHumidity": 65,
+      "ForecastTemperature": 32.4,
+      "ForecastWindDirection": 199,
+      "ForecastWindSpeed": 4
+    },
+    {
+      "ForecastHour": "2026092516",
+      "ForecastRelativeHumidity": 65.3,
+      "ForecastTemperature": 31.7,
+      "ForecastWindDirection": 184,
+      "ForecastWindSpeed": 4
+    },
+    {
+      "ForecastHour": "2026092517",
+      "ForecastRelativeHumidity": 71,
+      "ForecastTemperature": 30,
+      "ForecastWindDirection": 176,
+      "ForecastWindSpeed": 3.9
+    },
+    {
+      "ForecastHour": "2026092518",
+      "ForecastRelativeHumidity": 78.3,
+      "ForecastTemperature": 28.1,
+      "ForecastWindDirection": 131,
+      "ForecastWindSpeed": 2.8
+    },
+    {
+      "ForecastHour": "2026092519",
+      "ForecastRelativeHumidity": 84.1,
+      "ForecastTemperature": 26.9,
+      "ForecastWindDirection": 59,
+      "ForecastWindSpeed": 2.5
+    },
+    {
+      "ForecastHour": "2026092520",
+      "ForecastRelativeHumidity": 87,
+      "ForecastTemperature": 26.4,
+      "ForecastWindDirection": 40,
+      "ForecastWindSpeed": 1.9
+    },
+    {
+      "ForecastHour": "2026092521",
+      "ForecastRelativeHumidity": 92,
+      "ForecastTemperature": 25.9,
+      "ForecastWindDirection": 61,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092522",
+      "ForecastRelativeHumidity": 91.9,
+      "ForecastTemperature": 25.9,
+      "ForecastWindDirection": 52,
+      "ForecastWindSpeed": 2
+    },
+    {
+      "ForecastHour": "2026092523",
+      "ForecastRelativeHumidity": 94.1,
+      "ForecastTemperature": 25.7,
+      "ForecastWindDirection": 59,
+      "ForecastWindSpeed": 1.4
+    },
+    {
+      "ForecastHour": "2026092600",
+      "ForecastRelativeHumidity": 94.7,
+      "ForecastTemperature": 25.7,
+      "ForecastWindDirection": 58,
+      "ForecastWindSpeed": 1.4
+    },
+    {
+      "ForecastHour": "2026092601",
+      "ForecastRelativeHumidity": 94.6,
+      "ForecastTemperature": 25.5,
+      "ForecastWindDirection": 69,
+      "ForecastWindSpeed": 1.5
+    },
+    {
+      "ForecastHour": "2026092602",
+      "ForecastRelativeHumidity": 96.2,
+      "ForecastTemperature": 25.2,
+      "ForecastWindDirection": 40,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092603",
+      "ForecastRelativeHumidity": 97.6,
+      "ForecastTemperature": 24.8,
+      "ForecastWindDirection": 48,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092604",
+      "ForecastRelativeHumidity": 98.1,
+      "ForecastTemperature": 24.4,
+      "ForecastWindDirection": 84,
+      "ForecastWindSpeed": 0.9
+    },
+    {
+      "ForecastHour": "2026092605",
+      "ForecastRelativeHumidity": 98.7,
+      "ForecastTemperature": 24.3,
+      "ForecastWindDirection": 57,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092606",
+      "ForecastRelativeHumidity": 98.6,
+      "ForecastTemperature": 24.6,
+      "ForecastWindDirection": 58,
+      "ForecastWindSpeed": 1
+    },
+    {
+      "ForecastHour": "2026092607",
+      "ForecastRelativeHumidity": 97.2,
+      "ForecastTemperature": 25.3,
+      "ForecastWindDirection": 77,
+      "ForecastWindSpeed": 1.2
+    },
+    {
+      "ForecastHour": "2026092608",
+      "ForecastRelativeHumidity": 90,
+      "ForecastTemperature": 27,
+      "ForecastWindDirection": 50,
+      "ForecastWindSpeed": 1.6
+    },
+    {
+      "ForecastHour": "2026092609",
+      "ForecastRelativeHumidity": 80.2,
+      "ForecastTemperature": 28.8,
+      "ForecastWindDirection": 46,
+      "ForecastWindSpeed": 2.9
+    },
+    {
+      "ForecastHour": "2026092610",
+      "ForecastRelativeHumidity": 73.4,
+      "ForecastTemperature": 30.2,
+      "ForecastWindDirection": 23,
+      "ForecastWindSpeed": 3.5
+    },
+    {
+      "ForecastHour": "2026092611",
+      "ForecastRelativeHumidity": 70.2,
+      "ForecastTemperature": 30.9,
+      "ForecastWindDirection": 37,
+      "ForecastWindSpeed": 4.5
+    },
+    {
+      "ForecastHour": "2026092612",
+      "ForecastRelativeHumidity": 67.4,
+      "ForecastTemperature": 31.9,
+      "ForecastWindDirection": 193,
+      "ForecastWindSpeed": 5.1
+    },
+    {
+      "ForecastHour": "2026092613",
+      "ForecastRelativeHumidity": 67.1,
+      "ForecastTemperature": 32.1,
+      "ForecastWindDirection": 130,
+      "ForecastWindSpeed": 4.4
+    },
+    {
+      "ForecastHour": "2026092614",
+      "ForecastRelativeHumidity": 65.3,
+      "ForecastTemperature": 32.8,
+      "ForecastWindDirection": 163,
+      "ForecastWindSpeed": 4.8
+    },
+    {
+      "ForecastHour": "2026092615",
+      "ForecastRelativeHumidity": 67.2,
+      "ForecastTemperature": 32.4,
+      "ForecastWindDirection": 204,
+      "ForecastWindSpeed": 3.9
+    },
+    {
+      "ForecastHour": "2026092616",
+      "ForecastRelativeHumidity": 67.4,
+      "ForecastTemperature": 31.7,
+      "ForecastWindDirection": 184,
+      "ForecastWindSpeed": 4
+    },
+    {
+      "ForecastHour": "2026092617",
+      "ForecastRelativeHumidity": 72.9,
+      "ForecastTemperature": 30.1,
+      "ForecastWindDirection": 170,
+      "ForecastWindSpeed": 3.8
+    },
+    {
+      "ForecastHour": "2026092618",
+      "ForecastRelativeHumidity": 80.1,
+      "ForecastTemperature": 28.2,
+      "ForecastWindDirection": 132,
+      "ForecastWindSpeed": 2.8
+    },
+    {
+      "ForecastHour": "2026092619",
+      "ForecastRelativeHumidity": 85.6,
+      "ForecastTemperature": 27.1,
+      "ForecastWindDirection": 61,
+      "ForecastWindSpeed": 2.4
+    },
+    {
+      "ForecastHour": "2026092620",
+      "ForecastRelativeHumidity": 88.1,
+      "ForecastTemperature": 26.6,
+      "ForecastWindDirection": 30,
+      "ForecastWindSpeed": 1.8
+    },
+    {
+      "ForecastHour": "2026092621",
+      "ForecastRelativeHumidity": 93.4,
+      "ForecastTemperature": 26.1,
+      "ForecastWindDirection": 61,
+      "ForecastWindSpeed": 1.1
+    },
+    {
+      "ForecastHour": "2026092622",
+      "ForecastRelativeHumidity": 92.8,
+      "ForecastTemperature": 26.2,
+      "ForecastWindDirection": 50,
+      "ForecastWindSpeed": 2
+    },
+    {
+      "ForecastHour": "2026092623",
+      "ForecastRelativeHumidity": 94.9,
+      "ForecastTemperature": 26,
+      "ForecastWindDirection": 59,
+      "ForecastWindSpeed": 1.3
+    },
+    {
+      "ForecastHour": "2026092700",
+      "ForecastRelativeHumidity": 95.6,
+      "ForecastTemperature": 25.9,
+      "ForecastWindDirection": 54,
+      "ForecastWindSpeed": 1.2
+    }
+  ],
+  "meta": {
+    "DayNightIcon": []
+  }
+}

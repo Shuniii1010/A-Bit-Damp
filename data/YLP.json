@@ -1,0 +1,984 @@
+{
+  "LastModified": 20260917131149,
+  "StationCode": "YLP",
+  "Latitude": 22.4407,
+  "Longitude": 114.018,
+  "ModelTime": 2026091612,
+  "DailyForecast": [
+    {
+      "ForecastDate": "20260917",
+      "ForecastMaximumTemperature": 33.1,
+      "ForecastMinimumTemperature": 24.9
+    },
+    {
+      "ForecastDate": "20260918",
+      "ForecastMaximumTemperature": 35.5,
+      "ForecastMinimumTemperature": 25.5
+    },
+    {
+      "ForecastDate": "20260919",
+      "ForecastMaximumTemperature": 36.4,
+      "ForecastMinimumTemperature": 25.4
+    },
+    {
+      "ForecastDate": "20260920",
+      "ForecastMaximumTemperature": 34.6,
+      "ForecastMinimumTemperature": 25.7
+    },
+    {
+      "ForecastDate": "20260921",
+      "ForecastMaximumTemperature": 32.4,
+      "ForecastMinimumTemperature": 25.8
+    },
+    {
+      "ForecastDate": "20260922",
+      "ForecastMaximumTemperature": 32.1,
+      "ForecastMinimumTemperature": 25.5
+    },
+    {
+      "ForecastDate": "20260923",
+      "ForecastMaximumTemperature": 32.7,
+      "ForecastMinimumTemperature": 25.3
+    },
+    {
+      "ForecastDate": "20260924",
+      "ForecastMaximumTemperature": 32.7,
+      "ForecastMinimumTemperature": 24.7
+    },
+    {
+      "ForecastDate": "20260925",
+      "ForecastMaximumTemperature": 33.3,
+      "ForecastMinimumTemperature": 25.2
+    },
+    {
+      "ForecastDate": "20260926",
+      "ForecastMaximumTemperature": 33.3,
+      "ForecastMinimumTemperature": 25.4
+    }
+  ],
+  "HourlyWeatherForecast": [
+    {
+      "ForecastHour": "2026091711",
+      "ForecastTemperature": 32.4
+    },
+    {
+      "ForecastHour": "2026091712",
+      "ForecastTemperature": 31.7
+    },
+    {
+      "ForecastHour": "2026091713",
+      "ForecastTemperature": 32.2
+    },
+    {
+      "ForecastHour": "2026091714",
+      "ForecastTemperature": 32.9
+    },
+    {
+      "ForecastHour": "2026091715",
+      "ForecastTemperature": 32.7
+    },
+    {
+      "ForecastHour": "2026091716",
+      "ForecastTemperature": 31.3
+    },
+    {
+      "ForecastHour": "2026091717",
+      "ForecastTemperature": 29.9
+    },
+    {
+      "ForecastHour": "2026091718",
+      "ForecastTemperature": 28.3
+    },
+    {
+      "ForecastHour": "2026091719",
+      "ForecastTemperature": 27.4
+    },
+    {
+      "ForecastHour": "2026091720",
+      "ForecastTemperature": 27.2
+    },
+    {
+      "ForecastHour": "2026091721",
+      "ForecastTemperature": 27
+    },
+    {
+      "ForecastHour": "2026091722",
+      "ForecastTemperature": 26.8
+    },
+    {
+      "ForecastHour": "2026091723",
+      "ForecastTemperature": 26.6
+    },
+    {
+      "ForecastHour": "2026091800",
+      "ForecastTemperature": 26.6
+    },
+    {
+      "ForecastHour": "2026091801",
+      "ForecastTemperature": 26.4
+    },
+    {
+      "ForecastHour": "2026091802",
+      "ForecastTemperature": 26.3
+    },
+    {
+      "ForecastHour": "2026091803",
+      "ForecastTemperature": 26
+    },
+    {
+      "ForecastHour": "2026091804",
+      "ForecastTemperature": 25.7
+    },
+    {
+      "ForecastHour": "2026091805",
+      "ForecastTemperature": 25.5
+    },
+    {
+      "ForecastHour": "2026091806",
+      "ForecastTemperature": 25.8
+    },
+    {
+      "ForecastHour": "2026091807",
+      "ForecastTemperature": 26.4
+    },
+    {
+      "ForecastHour": "2026091808",
+      "ForecastTemperature": 28.1
+    },
+    {
+      "ForecastHour": "2026091809",
+      "ForecastTemperature": 30.3
+    },
+    {
+      "ForecastHour": "2026091810",
+      "ForecastTemperature": 32
+    },
+    {
+      "ForecastHour": "2026091811",
+      "ForecastTemperature": 33.3
+    },
+    {
+      "ForecastHour": "2026091812",
+      "ForecastTemperature": 34
+    },
+    {
+      "ForecastHour": "2026091813",
+      "ForecastTemperature": 34.6
+    },
+    {
+      "ForecastHour": "2026091814",
+      "ForecastTemperature": 35.5
+    },
+    {
+      "ForecastHour": "2026091815",
+      "ForecastTemperature": 35.3
+    },
+    {
+      "ForecastHour": "2026091816",
+      "ForecastTemperature": 33.3
+    },
+    {
+      "ForecastHour": "2026091817",
+      "ForecastTemperature": 31.4
+    },
+    {
+      "ForecastHour": "2026091818",
+      "ForecastTemperature": 29.2
+    },
+    {
+      "ForecastHour": "2026091819",
+      "ForecastTemperature": 28.1
+    },
+    {
+      "ForecastHour": "2026091820",
+      "ForecastTemperature": 27.6
+    },
+    {
+      "ForecastHour": "2026091821",
+      "ForecastTemperature": 27.2
+    },
+    {
+      "ForecastHour": "2026091822",
+      "ForecastTemperature": 27
+    },
+    {
+      "ForecastHour": "2026091823",
+      "ForecastTemperature": 26.7
+    },
+    {
+      "ForecastHour": "2026091900",
+      "ForecastTemperature": 26.7
+    },
+    {
+      "ForecastHour": "2026091901",
+      "ForecastTemperature": 26.4
+    },
+    {
+      "ForecastHour": "2026091902",
+      "ForecastTemperature": 26.3
+    },
+    {
+      "ForecastHour": "2026091903",
+      "ForecastTemperature": 26
+    },
+    {
+      "ForecastHour": "2026091904",
+      "ForecastTemperature": 25.7
+    },
+    {
+      "ForecastHour": "2026091905",
+      "ForecastTemperature": 25.4
+    },
+    {
+      "ForecastHour": "2026091906",
+      "ForecastTemperature": 25.9
+    },
+    {
+      "ForecastHour": "2026091907",
+      "ForecastTemperature": 26.7
+    },
+    {
+      "ForecastHour": "2026091908",
+      "ForecastTemperature": 28.6
+    },
+    {
+      "ForecastHour": "2026091909",
+      "ForecastTemperature": 31
+    },
+    {
+      "ForecastHour": "2026091910",
+      "ForecastTemperature": 32.9
+    },
+    {
+      "ForecastHour": "2026091911",
+      "ForecastTemperature": 34.4
+    },
+    {
+      "ForecastHour": "2026091912",
+      "ForecastTemperature": 35
+    },
+    {
+      "ForecastHour": "2026091913",
+      "ForecastTemperature": 35.5
+    },
+    {
+      "ForecastHour": "2026091914",
+      "ForecastTemperature": 36.4
+    },
+    {
+      "ForecastHour": "2026091915",
+      "ForecastTemperature": 36.1
+    },
+    {
+      "ForecastHour": "2026091916",
+      "ForecastTemperature": 34.2
+    },
+    {
+      "ForecastHour": "2026091917",
+      "ForecastTemperature": 32.1
+    },
+    {
+      "ForecastHour": "2026091918",
+      "ForecastTemperature": 29.8
+    },
+    {
+      "ForecastHour": "2026091919",
+      "ForecastTemperature": 28.7
+    },
+    {
+      "ForecastHour": "2026091920",
+      "ForecastTemperature": 28.1
+    },
+    {
+      "ForecastHour": "2026091921",
+      "ForecastTemperature": 27.6
+    },
+    {
+      "ForecastHour": "2026091922",
+      "ForecastTemperature": 27.3
+    },
+    {
+      "ForecastHour": "2026091923",
+      "ForecastTemperature": 27
+    },
+    {
+      "ForecastHour": "2026092000",
+      "ForecastTemperature": 27
+    },
+    {
+      "ForecastHour": "2026092001",
+      "ForecastTemperature": 26.8
+    },
+    {
+      "ForecastHour": "2026092002",
+      "ForecastTemperature": 26.6
+    },
+    {
+      "ForecastHour": "2026092003",
+      "ForecastTemperature": 26.3
+    },
+    {
+      "ForecastHour": "2026092004",
+      "ForecastTemperature": 25.9
+    },
+    {
+      "ForecastHour": "2026092005",
+      "ForecastTemperature": 25.7
+    },
+    {
+      "ForecastHour": "2026092006",
+      "ForecastTemperature": 26
+    },
+    {
+      "ForecastHour": "2026092007",
+      "ForecastTemperature": 26.5
+    },
+    {
+      "ForecastHour": "2026092008",
+      "ForecastTemperature": 28.3
+    },
+    {
+      "ForecastHour": "2026092009",
+      "ForecastTemperature": 30.3
+    },
+    {
+      "ForecastHour": "2026092010",
+      "ForecastTemperature": 31.9
+    },
+    {
+      "ForecastHour": "2026092011",
+      "ForecastTemperature": 33
+    },
+    {
+      "ForecastHour": "2026092012",
+      "ForecastTemperature": 33.4
+    },
+    {
+      "ForecastHour": "2026092013",
+      "ForecastTemperature": 33.8
+    },
+    {
+      "ForecastHour": "2026092014",
+      "ForecastTemperature": 34.6
+    },
+    {
+      "ForecastHour": "2026092015",
+      "ForecastTemperature": 34.5
+    },
+    {
+      "ForecastHour": "2026092016",
+      "ForecastTemperature": 33.2
+    },
+    {
+      "ForecastHour": "2026092017",
+      "ForecastTemperature": 31.8
+    },
+    {
+      "ForecastHour": "2026092018",
+      "ForecastTemperature": 30
+    },
+    {
+      "ForecastHour": "2026092019",
+      "ForecastTemperature": 29
+    },
+    {
+      "ForecastHour": "2026092020",
+      "ForecastTemperature": 28.5
+    },
+    {
+      "ForecastHour": "2026092021",
+      "ForecastTemperature": 28.1
+    },
+    {
+      "ForecastHour": "2026092022",
+      "ForecastTemperature": 27.8
+    },
+    {
+      "ForecastHour": "2026092023",
+      "ForecastTemperature": 27.4
+    },
+    {
+      "ForecastHour": "2026092100",
+      "ForecastTemperature": 27.4
+    },
+    {
+      "ForecastHour": "2026092101",
+      "ForecastTemperature": 27.2
+    },
+    {
+      "ForecastHour": "2026092102",
+      "ForecastTemperature": 27.2
+    },
+    {
+      "ForecastHour": "2026092103",
+      "ForecastTemperature": 26.8
+    },
+    {
+      "ForecastHour": "2026092104",
+      "ForecastTemperature": 26.4
+    },
+    {
+      "ForecastHour": "2026092105",
+      "ForecastTemperature": 26
+    },
+    {
+      "ForecastHour": "2026092106",
+      "ForecastTemperature": 25.8
+    },
+    {
+      "ForecastHour": "2026092107",
+      "ForecastTemperature": 26.1
+    },
+    {
+      "ForecastHour": "2026092108",
+      "ForecastTemperature": 27.5
+    },
+    {
+      "ForecastHour": "2026092109",
+      "ForecastTemperature": 29.2
+    },
+    {
+      "ForecastHour": "2026092110",
+      "ForecastTemperature": 30.4
+    },
+    {
+      "ForecastHour": "2026092111",
+      "ForecastTemperature": 31
+    },
+    {
+      "ForecastHour": "2026092112",
+      "ForecastTemperature": 31.4
+    },
+    {
+      "ForecastHour": "2026092113",
+      "ForecastTemperature": 31.7
+    },
+    {
+      "ForecastHour": "2026092114",
+      "ForecastTemperature": 32.4
+    },
+    {
+      "ForecastHour": "2026092115",
+      "ForecastTemperature": 32.4
+    },
+    {
+      "ForecastHour": "2026092116",
+      "ForecastTemperature": 31.3
+    },
+    {
+      "ForecastHour": "2026092117",
+      "ForecastTemperature": 30.3
+    },
+    {
+      "ForecastHour": "2026092118",
+      "ForecastTemperature": 28.9
+    },
+    {
+      "ForecastHour": "2026092119",
+      "ForecastTemperature": 28.2
+    },
+    {
+      "ForecastHour": "2026092120",
+      "ForecastTemperature": 28
+    },
+    {
+      "ForecastHour": "2026092121",
+      "ForecastTemperature": 27.6
+    },
+    {
+      "ForecastHour": "2026092122",
+      "ForecastTemperature": 27.3
+    },
+    {
+      "ForecastHour": "2026092123",
+      "ForecastTemperature": 27
+    },
+    {
+      "ForecastHour": "2026092200",
+      "ForecastTemperature": 27
+    },
+    {
+      "ForecastHour": "2026092201",
+      "ForecastTemperature": 26.9
+    },
+    {
+      "ForecastHour": "2026092202",
+      "ForecastTemperature": 26.8
+    },
+    {
+      "ForecastHour": "2026092203",
+      "ForecastTemperature": 26.5
+    },
+    {
+      "ForecastHour": "2026092204",
+      "ForecastTemperature": 26
+    },
+    {
+      "ForecastHour": "2026092205",
+      "ForecastTemperature": 25.6
+    },
+    {
+      "ForecastHour": "2026092206",
+      "ForecastTemperature": 25.5
+    },
+    {
+      "ForecastHour": "2026092207",
+      "ForecastTemperature": 26
+    },
+    {
+      "ForecastHour": "2026092208",
+      "ForecastTemperature": 27.7
+    },
+    {
+      "ForecastHour": "2026092209",
+      "ForecastTemperature": 29.6
+    },
+    {
+      "ForecastHour": "2026092210",
+      "ForecastTemperature": 31.1
+    },
+    {
+      "ForecastHour": "2026092211",
+      "ForecastTemperature": 32.1
+    },
+    {
+      "ForecastHour": "2026092212",
+      "ForecastTemperature": 32.1
+    },
+    {
+      "ForecastHour": "2026092213",
+      "ForecastTemperature": 31.2
+    },
+    {
+      "ForecastHour": "2026092214",
+      "ForecastTemperature": 30.7
+    },
+    {
+      "ForecastHour": "2026092215",
+      "ForecastTemperature": 30.3
+    },
+    {
+      "ForecastHour": "2026092216",
+      "ForecastTemperature": 29.8
+    },
+    {
+      "ForecastHour": "2026092217",
+      "ForecastTemperature": 29.4
+    },
+    {
+      "ForecastHour": "2026092218",
+      "ForecastTemperature": 28.5
+    },
+    {
+      "ForecastHour": "2026092219",
+      "ForecastTemperature": 27.6
+    },
+    {
+      "ForecastHour": "2026092220",
+      "ForecastTemperature": 27.3
+    },
+    {
+      "ForecastHour": "2026092221",
+      "ForecastTemperature": 27.1
+    },
+    {
+      "ForecastHour": "2026092222",
+      "ForecastTemperature": 26.8
+    },
+    {
+      "ForecastHour": "2026092223",
+      "ForecastTemperature": 26.6
+    },
+    {
+      "ForecastHour": "2026092300",
+      "ForecastTemperature": 26.6
+    },
+    {
+      "ForecastHour": "2026092301",
+      "ForecastTemperature": 26.5
+    },
+    {
+      "ForecastHour": "2026092302",
+      "ForecastTemperature": 26.5
+    },
+    {
+      "ForecastHour": "2026092303",
+      "ForecastTemperature": 26.1
+    },
+    {
+      "ForecastHour": "2026092304",
+      "ForecastTemperature": 25.7
+    },
+    {
+      "ForecastHour": "2026092305",
+      "ForecastTemperature": 25.3
+    },
+    {
+      "ForecastHour": "2026092306",
+      "ForecastTemperature": 25.3
+    },
+    {
+      "ForecastHour": "2026092307",
+      "ForecastTemperature": 25.8
+    },
+    {
+      "ForecastHour": "2026092308",
+      "ForecastTemperature": 27.4
+    },
+    {
+      "ForecastHour": "2026092309",
+      "ForecastTemperature": 29.2
+    },
+    {
+      "ForecastHour": "2026092310",
+      "ForecastTemperature": 30.6
+    },
+    {
+      "ForecastHour": "2026092311",
+      "ForecastTemperature": 31.5
+    },
+    {
+      "ForecastHour": "2026092312",
+      "ForecastTemperature": 32
+    },
+    {
+      "ForecastHour": "2026092313",
+      "ForecastTemperature": 32.2
+    },
+    {
+      "ForecastHour": "2026092314",
+      "ForecastTemperature": 32.7
+    },
+    {
+      "ForecastHour": "2026092315",
+      "ForecastTemperature": 32.7
+    },
+    {
+      "ForecastHour": "2026092316",
+      "ForecastTemperature": 31.5
+    },
+    {
+      "ForecastHour": "2026092317",
+      "ForecastTemperature": 30.2
+    },
+    {
+      "ForecastHour": "2026092318",
+      "ForecastTemperature": 28.6
+    },
+    {
+      "ForecastHour": "2026092319",
+      "ForecastTemperature": 27.7
+    },
+    {
+      "ForecastHour": "2026092320",
+      "ForecastTemperature": 27.4
+    },
+    {
+      "ForecastHour": "2026092321",
+      "ForecastTemperature": 26.9
+    },
+    {
+      "ForecastHour": "2026092322",
+      "ForecastTemperature": 26.5
+    },
+    {
+      "ForecastHour": "2026092323",
+      "ForecastTemperature": 26.2
+    },
+    {
+      "ForecastHour": "2026092400",
+      "ForecastTemperature": 26.1
+    },
+    {
+      "ForecastHour": "2026092401",
+      "ForecastTemperature": 25.9
+    },
+    {
+      "ForecastHour": "2026092402",
+      "ForecastTemperature": 25.7
+    },
+    {
+      "ForecastHour": "2026092403",
+      "ForecastTemperature": 25.3
+    },
+    {
+      "ForecastHour": "2026092404",
+      "ForecastTemperature": 25
+    },
+    {
+      "ForecastHour": "2026092405",
+      "ForecastTemperature": 24.7
+    },
+    {
+      "ForecastHour": "2026092406",
+      "ForecastTemperature": 25
+    },
+    {
+      "ForecastHour": "2026092407",
+      "ForecastTemperature": 25.4
+    },
+    {
+      "ForecastHour": "2026092408",
+      "ForecastTemperature": 26.9
+    },
+    {
+      "ForecastHour": "2026092409",
+      "ForecastTemperature": 28.8
+    },
+    {
+      "ForecastHour": "2026092410",
+      "ForecastTemperature": 30.4
+    },
+    {
+      "ForecastHour": "2026092411",
+      "ForecastTemperature": 31.4
+    },
+    {
+      "ForecastHour": "2026092412",
+      "ForecastTemperature": 31.9
+    },
+    {
+      "ForecastHour": "2026092413",
+      "ForecastTemperature": 32.2
+    },
+    {
+      "ForecastHour": "2026092414",
+      "ForecastTemperature": 32.7
+    },
+    {
+      "ForecastHour": "2026092415",
+      "ForecastTemperature": 32.7
+    },
+    {
+      "ForecastHour": "2026092416",
+      "ForecastTemperature": 31.5
+    },
+    {
+      "ForecastHour": "2026092417",
+      "ForecastTemperature": 30.2
+    },
+    {
+      "ForecastHour": "2026092418",
+      "ForecastTemperature": 28.6
+    },
+    {
+      "ForecastHour": "2026092419",
+      "ForecastTemperature": 27.7
+    },
+    {
+      "ForecastHour": "2026092420",
+      "ForecastTemperature": 27.3
+    },
+    {
+      "ForecastHour": "2026092421",
+      "ForecastTemperature": 27.1
+    },
+    {
+      "ForecastHour": "2026092422",
+      "ForecastTemperature": 26.8
+    },
+    {
+      "ForecastHour": "2026092423",
+      "ForecastTemperature": 26.5
+    },
+    {
+      "ForecastHour": "2026092500",
+      "ForecastTemperature": 26.5
+    },
+    {
+      "ForecastHour": "2026092501",
+      "ForecastTemperature": 26.4
+    },
+    {
+      "ForecastHour": "2026092502",
+      "ForecastTemperature": 26.2
+    },
+    {
+      "ForecastHour": "2026092503",
+      "ForecastTemperature": 25.9
+    },
+    {
+      "ForecastHour": "2026092504",
+      "ForecastTemperature": 25.5
+    },
+    {
+      "ForecastHour": "2026092505",
+      "ForecastTemperature": 25.2
+    },
+    {
+      "ForecastHour": "2026092506",
+      "ForecastTemperature": 25.5
+    },
+    {
+      "ForecastHour": "2026092507",
+      "ForecastTemperature": 26
+    },
+    {
+      "ForecastHour": "2026092508",
+      "ForecastTemperature": 27.5
+    },
+    {
+      "ForecastHour": "2026092509",
+      "ForecastTemperature": 29.5
+    },
+    {
+      "ForecastHour": "2026092510",
+      "ForecastTemperature": 31
+    },
+    {
+      "ForecastHour": "2026092511",
+      "ForecastTemperature": 32
+    },
+    {
+      "ForecastHour": "2026092512",
+      "ForecastTemperature": 32.6
+    },
+    {
+      "ForecastHour": "2026092513",
+      "ForecastTemperature": 32.8
+    },
+    {
+      "ForecastHour": "2026092514",
+      "ForecastTemperature": 33.3
+    },
+    {
+      "ForecastHour": "2026092515",
+      "ForecastTemperature": 33.3
+    },
+    {
+      "ForecastHour": "2026092516",
+      "ForecastTemperature": 31.9
+    },
+    {
+      "ForecastHour": "2026092517",
+      "ForecastTemperature": 30.6
+    },
+    {
+      "ForecastHour": "2026092518",
+      "ForecastTemperature": 28.9
+    },
+    {
+      "ForecastHour": "2026092519",
+      "ForecastTemperature": 28
+    },
+    {
+      "ForecastHour": "2026092520",
+      "ForecastTemperature": 27.6
+    },
+    {
+      "ForecastHour": "2026092521",
+      "ForecastTemperature": 27.2
+    },
+    {
+      "ForecastHour": "2026092522",
+      "ForecastTemperature": 26.9
+    },
+    {
+      "ForecastHour": "2026092523",
+      "ForecastTemperature": 26.7
+    },
+    {
+      "ForecastHour": "2026092600",
+      "ForecastTemperature": 26.7
+    },
+    {
+      "ForecastHour": "2026092601",
+      "ForecastTemperature": 26.5
+    },
+    {
+      "ForecastHour": "2026092602",
+      "ForecastTemperature": 26.4
+    },
+    {
+      "ForecastHour": "2026092603",
+      "ForecastTemperature": 26
+    },
+    {
+      "ForecastHour": "2026092604",
+      "ForecastTemperature": 25.6
+    },
+    {
+      "ForecastHour": "2026092605",
+      "ForecastTemperature": 25.4
+    },
+    {
+      "ForecastHour": "2026092606",
+      "ForecastTemperature": 25.6
+    },
+    {
+      "ForecastHour": "2026092607",
+      "ForecastTemperature": 26.1
+    },
+    {
+      "ForecastHour": "2026092608",
+      "ForecastTemperature": 27.6
+    },
+    {
+      "ForecastHour": "2026092609",
+      "ForecastTemperature": 29.6
+    },
+    {
+      "ForecastHour": "2026092610",
+      "ForecastTemperature": 31.1
+    },
+    {
+      "ForecastHour": "2026092611",
+      "ForecastTemperature": 32.2
+    },
+    {
+      "ForecastHour": "2026092612",
+      "ForecastTemperature": 32.6
+    },
+    {
+      "ForecastHour": "2026092613",
+      "ForecastTemperature": 32.8
+    },
+    {
+      "ForecastHour": "2026092614",
+      "ForecastTemperature": 33.3
+    },
+    {
+      "ForecastHour": "2026092615",
+      "ForecastTemperature": 33.3
+    },
+    {
+      "ForecastHour": "2026092616",
+      "ForecastTemperature": 32
+    },
+    {
+      "ForecastHour": "2026092617",
+      "ForecastTemperature": 30.6
+    },
+    {
+      "ForecastHour": "2026092618",
+      "ForecastTemperature": 29
+    },
+    {
+      "ForecastHour": "2026092619",
+      "ForecastTemperature": 28
+    },
+    {
+      "ForecastHour": "2026092620",
+      "ForecastTemperature": 27.7
+    },
+    {
+      "ForecastHour": "2026092621",
+      "ForecastTemperature": 27.4
+    },
+    {
+      "ForecastHour": "2026092622",
+      "ForecastTemperature": 27.1
+    },
+    {
+      "ForecastHour": "2026092623",
+      "ForecastTemperature": 26.8
+    },
+    {
+      "ForecastHour": "2026092700",
+      "ForecastTemperature": 26.8
+    }
+  ],
+  "meta": {
+    "DayNightIcon": []
+  }
+}
