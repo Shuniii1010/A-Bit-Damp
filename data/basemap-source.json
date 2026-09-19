@@ -1,0 +1,76 @@
+{
+  "credit": "Esri, HERE, Garmin, \u00a9 OpenStreetMap contributors",
+  "source_example": "https://github.com/sd5913/tidal-streams/blob/main/currents.py",
+  "cached_at_utc": "2026-09-19T11:07:15.374627+00:00",
+  "projection": "EPSG:3857",
+  "zoom": 11,
+  "pixel_extent": [
+    427833,
+    228405,
+    428839,
+    229067
+  ],
+  "description": "basemap.png is a stitched crop; map-tiles/ preserves original responses.",
+  "tiles": [
+    {
+      "file": "map-tiles/11-1671-892.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/892/1671"
+    },
+    {
+      "file": "map-tiles/11-1672-892.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/892/1672"
+    },
+    {
+      "file": "map-tiles/11-1673-892.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/892/1673"
+    },
+    {
+      "file": "map-tiles/11-1674-892.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/892/1674"
+    },
+    {
+      "file": "map-tiles/11-1675-892.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/892/1675"
+    },
+    {
+      "file": "map-tiles/11-1671-893.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/893/1671"
+    },
+    {
+      "file": "map-tiles/11-1672-893.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/893/1672"
+    },
+    {
+      "file": "map-tiles/11-1673-893.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/893/1673"
+    },
+    {
+      "file": "map-tiles/11-1674-893.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/893/1674"
+    },
+    {
+      "file": "map-tiles/11-1675-893.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/893/1675"
+    },
+    {
+      "file": "map-tiles/11-1671-894.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/894/1671"
+    },
+    {
+      "file": "map-tiles/11-1672-894.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/894/1672"
+    },
+    {
+      "file": "map-tiles/11-1673-894.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/894/1673"
+    },
+    {
+      "file": "map-tiles/11-1674-894.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/894/1674"
+    },
+    {
+      "file": "map-tiles/11-1675-894.png",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/11/894/1675"
+    }
+  ]
+}
