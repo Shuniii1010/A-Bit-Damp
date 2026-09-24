@@ -8,6 +8,8 @@ A Bit Damp explores how forecast relative humidity varies across Hong Kong over 
 ## The source
 The data comes from the [Hong Kong Observatory’s regional weather forecast](https://www.hko.gov.hk/sc/wxinfo/awsgis/regional_portal.html?ele=rh). This project uses a snapshot saved on 17 September 2026, containing forecasts for 25 September 2026. These are forecast values, not observations recorded on that day.
 
+The original responses are preserved unchanged in data/. Of the 28 locations, 26 have complete humidity values for the selected times. Tai Mei Tuk and Yuen Long Park are excluded because their humidity values are missing, rather than being treated as zero.
+
 ## What the picture shows
 The picture highlights differences between locations and changes throughout the day. A fixed visual scale makes stations and frames comparable.
 However, the ink is a symbolic representation: its footprint does not show the geographical area affected by a station or simulate moisture spreading. Overlapping spots may appear darker. The artistic mapping emphasises humidity between 50% and 100%; ink area is not directly proportional to humidity.
@@ -28,3 +30,6 @@ uv run plot.py --still
 # Generate the interactive Folium map.
 uv run plot_web.py
 ```
+The image outputs are saved to out/, and the interactive map is saved to site/index.html. Open that HTML file in a browser to explore the map.
+Each script declares its own dependencies, which uv installs automatically. Once dependencies and the basemap are cached, image generation does not require an internet connection. The interactive webpage still loads JavaScript and CSS libraries from online services.
+The saved forecast is a fixed historical snapshot. Running fetch.py does not replace it with newer forecasts.
