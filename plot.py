@@ -98,6 +98,5 @@ def main():
                    duration=FRAME_MS, loop=0, lossless=True, method=4)
         print(f"Saved out/plot.webp: {len(frames)} frames, {FRAME_MS} ms each.")
     print("Saved out/plot.png")
-
-
+if __name__ == "__main__":
     main()
