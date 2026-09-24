@@ -97,8 +97,7 @@ def main():
         cover.save(OUT / "humidity.webp", save_all=True, append_images=frames[1:],
                    duration=FRAME_MS, loop=0, lossless=True, method=4)
         print(f"Saved out/humidity.webp: {len(frames)} frames, {FRAME_MS} ms each.")
-    print("Saved out/humidity.png")
+    print("Saved out/plot.png")
 
 
-if __name__ == "__main__":
     main()
