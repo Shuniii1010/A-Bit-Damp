@@ -87,16 +87,16 @@ def main():
     basemap = load_basemap().resize(MAP_SIZE,Image.Resampling.LANCZOS)
     OUT.mkdir(exist_ok=True)
     cover = frame(0,stations,basemap)
-    cover.save(OUT / "humidity.png")
+    cover.save(OUT / "plot.png")
     if not args.still:
         if not features.check("webp_anim"):
             raise RuntimeError("This Pillow installation lacks animated WebP support")
         frames = [cover]
         for i in range(1,len(HOURS)):
             frames.append(frame(i,stations,basemap))
-        cover.save(OUT / "humidity.webp", save_all=True, append_images=frames[1:],
+        cover.save(OUT / "plot.webp", save_all=True, append_images=frames[1:],
                    duration=FRAME_MS, loop=0, lossless=True, method=4)
-        print(f"Saved out/humidity.webp: {len(frames)} frames, {FRAME_MS} ms each.")
+        print(f"Saved out/plot.webp: {len(frames)} frames, {FRAME_MS} ms each.")
     print("Saved out/plot.png")
 
 
