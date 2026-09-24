@@ -4,12 +4,9 @@ A Bit Damp explores how forecast relative humidity varies across Hong Kong over 
 
 ![what the picture is](out/plot.png)
 
-## The phenomenon
-
-<!-- What goes up and down, and why you looked at it. -->
 
 ## The source
-The data comes from the Hong Kong Observatory’s regional weather forecast. This project uses a snapshot saved on 17 September 2026, containing forecasts for 25 September 2026. These are forecast values, not observations recorded on that day.
+The data comes from the [Hong Kong Observatory’s regional weather forecast](https://www.hko.gov.hk/sc/wxinfo/awsgis/regional_portal.html?ele=rh). This project uses a snapshot saved on 17 September 2026, containing forecasts for 25 September 2026. These are forecast values, not observations recorded on that day.
 
 ## What the picture shows
 The picture highlights differences between locations and changes throughout the day. A fixed visual scale makes stations and frames comparable.
