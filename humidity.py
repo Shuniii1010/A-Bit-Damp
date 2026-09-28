@@ -150,7 +150,7 @@ def load_basemap():
 def humidity_to_style(humidity):
     """Fixed display scale across ALL stations and frames; never per-frame scaling.
 
-    The 50–100% display range emphasizes this snapshot's range. This artistic
+    The 0–100% display range emphasizes this snapshot's range. This artistic
     encoding does not represent geographic spread or proportional area.
     """
     t = max(0.0, min(1.0, (math.ceil(humidity / 10) - 1) / 9))

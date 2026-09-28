@@ -52,3 +52,48 @@ The Folium web map uses the stations’ latitude and longitude directly, ensurin
 ## 7. Implementing the Ink-Blot Effect
 
 Initially, I planned to complete the MVP using ordinary circles and then gradually replace them with ink blots. Codex suggested that, instead of relying only on `pygame.draw.circle()`, I could create an ink-like effect by layering multiple irregular shapes.
+
+It is crucial to fix the random seed. If the ink dots are randomly generated for each frame, the animation will keep flickering, and the audience will not be able to determine whether the change comes from humidity or random texture. Now, the same ink pattern is used in all frames, with only the size and concentration changing.
+
+## 8. What I kept
+
+I retained most of the code written by Codex, including the conversion from humidity to ink dots and the website interaction. After we discussed the details in detail, the Astra model was basically able to meet my requirements in one go.
+
+## 9. What I reject
+
+The initial output file named by Codex were `humidity.png` and `humidity.webp`. I changed to `plot.png` and `plot.webp` according to the template.
+
+In the original code of Codex, the `humidity_to_style(humidity)`program in `humidity.py`
+converts humidity into: `diameter`, `opacity`, and `blur`. 
+
+The original conversion was based on a continuous range of 50% to 100%:
+ `t = max(0.0, min(1.0, (humidity - 50) / 50))`. 
+ 
+ Although this would make the visual differences between different ink dots larger, overall, the high humidity weather in Hong Kong cannot be reflected.
+
+Therefore, I want to change the continuous change to ten fixed styles:
+
+`0～10%`
+`10～20%`
+`20～30%`
+`30～40%`
+`40～50%`
+
+`50～60%`
+`60～70%`
+`70～80%`
+`80～90%`
+`90～100%`
+
+I only changed the calculation method of `t` to: `t = max(0.0, min(1.0, (math.ceil(humidity / 10) - 1) / 9))`.
+
+
+Subsequently, I also updated the `frame()` function in the final image/webpage generation code. 
+
+I changed `for n, value in enumerate((60,80,95)):` to `for n, value in enumerate((10, 50, 100)):`.
+
+As a result, in the left image, the effects of 10%, 50%, and 100% humidity will be displayed.
+
+## 10. The final version
+
+After completing the work, I asked Codex to review our previous conversation and summarise everything it had helped me with. I then used that summary to create the first draft of this `PROCESS.md` file and added more explanation .
