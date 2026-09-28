@@ -56,7 +56,7 @@ def frame(index, stations, basemap):
                               "", "Darker ink. Wider diffusion.", "Higher relative humidity.")):
         draw.text((42,226+n*26), text, font=font(17), fill=(81,102,115))
     draw.text((42,393), "RELATIVE HUMIDITY", font=font(13), fill=(90,111,125))
-    for n, value in enumerate((60,80,95)):
+    for n, value in enumerate((10,50,100)):
         y = 460+n*96
         ink = draw_ink("legend",value)
         image.alpha_composite(ink, (95-ink.width//2,y-ink.height//2))
