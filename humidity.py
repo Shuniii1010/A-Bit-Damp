@@ -153,7 +153,7 @@ def humidity_to_style(humidity):
     The 50–100% display range emphasizes this snapshot's range. This artistic
     encoding does not represent geographic spread or proportional area.
     """
-    t = max(0.0, min(1.0, (humidity - 50) / 50))
+    t = max(0.0, min(1.0, (math.ceil(humidity / 10) - 1) / 9))
     return {"diameter": round(30 + 78*t), "opacity": 0.22 + 0.76*t,
             "blur": 0.5 + 1.4*t}
 
