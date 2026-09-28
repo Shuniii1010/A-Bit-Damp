@@ -65,13 +65,10 @@ The initial output file named by Codex were `humidity.png` and `humidity.webp`. 
 
 In the original code of Codex, the `humidity_to_style(humidity)`program in `humidity.py`
 converts humidity into: `diameter`, `opacity`, and `blur`. 
-
 The original conversion was based on a continuous range of 50% to 100%:
  `t = max(0.0, min(1.0, (humidity - 50) / 50))`. 
  
- Although this would make the visual differences between different ink dots larger, overall, the high humidity weather in Hong Kong cannot be reflected.
-
-Therefore, I want to change the continuous change to ten fixed styles:
+ Although this would make the visual differences between different ink dots larger, overall, the high humidity weather in Hong Kong cannot be reflected. Therefore, I want to change the continuous change to ten fixed styles:
 
 `0～10%`
 `10～20%`
@@ -86,6 +83,7 @@ Therefore, I want to change the continuous change to ten fixed styles:
 `90～100%`
 
 I only changed the calculation method of `t` to: `t = max(0.0, min(1.0, (math.ceil(humidity / 10) - 1) / 9))`.
+(You can see the difference by checking the commit `c97ff4b`)
 
 
 Subsequently, I also updated the `frame()` function in the final image/webpage generation code. 
