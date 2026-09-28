@@ -55,7 +55,7 @@ def add_layout(m, stations, omitted):
     legend = "".join(
         f'<div class="legend-item"><img alt="{value}% humidity" src="{image_url(draw_ink("legend",value))}" '
         f'width="{draw_ink("legend",value).width}" height="{draw_ink("legend",value).height}">'
-        f'<span>{value}%</span></div>' for value in (60,80,95)
+        f'<span>{value}%</span></div>' for value in (10,50,100)
     )
     missing = ", ".join(escape(item["name"]) for item in omitted) or "None"
     m.get_root().header.add_child(Element('''
